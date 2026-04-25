@@ -37,7 +37,9 @@ Helps identify high-demand books
 Detects low or zero stock items
 Highlights books that are not selling
 Supports inventory and sales decision-making
+
 ▶️ How to Use
+
 Open your SQL environment (MySQL / PostgreSQL / SQL Server)
 Run the SQL script file
 Execute queries to view results
@@ -45,7 +47,9 @@ Modify queries to explore additional insights
 🛠️ Tools & Technologies
 SQL (MySQL / PostgreSQL)
 Relational Database Concepts
+
 🚀 Use Cases
+
 Bookstore inventory management
 Sales performance analysis
 Business intelligence reporting
